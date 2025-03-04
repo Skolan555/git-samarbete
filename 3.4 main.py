@@ -4,4 +4,9 @@ print("Hello Phurin")
 
 print("varför är git så svart!!!!!!!!!!!!!!!!!!")
 
+alex="Bäst"
+
+if alex=="Bäst":
+    print("Hello")
+
 
