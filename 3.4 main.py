@@ -14,3 +14,5 @@ print ("NEJ PHURIN ÄR BÄST!")
 
 
 print("PHilip did this!")
+
+print("Testing")
