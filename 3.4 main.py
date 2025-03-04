@@ -10,3 +10,6 @@ if alex=="Bäst":
     print("Hello")
 
 
+print ("NEJ PHURIN ÄR BÄST!")
+
+
